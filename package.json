@@ -1,0 +1,14 @@
+{
+  "name": "node-umbler",
+  "version": "1.0.0",
+  "description": "App simples para testar a hospedagem da Umbler.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Henrique Schreiner",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
